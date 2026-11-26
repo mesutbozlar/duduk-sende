@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.WhistleQuiz" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0A1628</item>
+        <item name="android:statusBarColor">#0A1628</item>
+        <item name="android:navigationBarColor">#12243F</item>
+    </style>
+</resources>
